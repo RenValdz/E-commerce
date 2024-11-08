@@ -50,6 +50,9 @@ aside{
     /* width: 10rem; */
     width: 100%;
     border-radius: 10rem;
+    position: relative;
+    right: 1rem;
+    
 }
 
 .menu{
@@ -302,7 +305,9 @@ main{
 @media screen and (max-width: 600px) {
     
     .logo{
-        width: 15rem;
+        width: 10rem;
+        position: relative;
+        right: 0.03rem;
     }
     
     .wrapper{
